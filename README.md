@@ -1,2 +1,2 @@
 # Unity_JustReadable_Attribute_Project
-This project contains files which allows developers to mark variables as Just Readable in their scripts to debug their value in inspector without the risk of changing the value.
+This project contains files to mark specific variables as JustReadable with the [JustReadable] attribute which allows the developers to see the value of the variable in inspector but wouldn't allow them to change the value of the variable in the inspector which makes it easy to debug the values without the risk of interfering with the value and without changing the inspector to debug mode which exposes a lot of background data which you wouldn't want to deal with for the single purpose of debugging a variable value.
